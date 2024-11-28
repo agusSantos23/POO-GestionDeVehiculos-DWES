@@ -1,4 +1,5 @@
 <?php
+
 class Camion extends Vehiculo {
   public function __construct(
     string $marca,
